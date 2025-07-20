@@ -1,0 +1,122 @@
+📁 01-basic-python-projects/
+Focus: Beginner skills, CLI tools, file I/O, OOP, data structures
+
+🔹 Project Ideas:
+Expense Tracker CLI – (already started)
+Track and store expenses in JSON, with filters for date/category.
+
+To-Do List App (CLI)
+Create, update, and delete tasks; save to text or JSON file.
+
+Unit Converter CLI
+Convert temperatures, currencies, lengths, etc. (OOP-based)
+
+Simple Calculator
+Command-line calculator supporting +, –, ×, ÷ and maybe brackets.
+
+Banking System Simulation
+Users can "create accounts", "deposit", "withdraw", "view balance".
+
+📁 02-api-and-cli-tools/
+Focus: REST APIs, HTTP requests, CLI tools with argparse
+
+🔹 Project Ideas:
+Weather CLI App (API)
+Pull current weather and forecasts using OpenWeatherMap API.
+
+Crypto Tracker CLI
+Fetch live prices of cryptocurrencies (using CoinGecko or Binance API).
+
+GitHub Repo Stats Fetcher
+Enter a username and get repo stats using GitHub’s API.
+
+Dictionary or Translator App
+Use a public dictionary API to define words or translate between languages.
+
+News Aggregator CLI
+Use NewsAPI to pull current headlines by topic.
+
+📁 03-web-apps/
+Focus: Flask/FastAPI, templates, databases, full-stack logic
+
+🔹 Project Ideas:
+Flask Blog Platform
+Register/Login, create/edit/delete blog posts, store in SQLite.
+
+Job Application Tracker (CRUD App)
+Track companies applied to, job titles, interview stages, etc.
+
+Portfolio Website (Personal)
+Show off your GitHub projects, skills, blog posts, and resume.
+
+Task Manager Web App
+Similar to Trello; basic drag/drop tasks and assign categories.
+
+Flask Poll App
+Create polls, vote, and display results dynamically.
+
+📁 04-automation-tools/
+Focus: Web scraping, task automation, bots, schedulers
+
+🔹 Project Ideas:
+LinkedIn Auto-Apply Bot (Ethical Use Only)
+Automate sending applications using Selenium.
+
+Email Report Sender
+Fetch data from file or API and email a formatted report daily.
+
+File Organizer Script
+Organize downloaded files by type or date into folders.
+
+Web Scraper for Deals or Jobs
+Scrape product prices, job listings, or event updates.
+
+Auto Backup Script
+Automatically zip a folder and save to another location (or cloud).
+
+📁 05-testing-frameworks/
+Focus: Unit testing, integration testing, test automation
+
+🔹 Project Ideas:
+PyTest Framework for a Calculator App
+Build tests for all calculator operations using PyTest.
+
+Web UI Testing Framework (Selenium)
+Create a mini Selenium + PyTest hybrid framework with page objects.
+
+API Testing Framework
+Test real APIs with requests, validate responses, use JSON schemas.
+
+Mock Testing Playground
+Practice with unittest.mock and test mocking APIs, DB calls, etc.
+
+Data Validator for CSV Files
+Automatically test CSVs for formatting, missing fields, etc.
+
+📁 06-data-projects/
+Focus: Data science, visualization, analysis, dashboards
+
+🔹 Project Ideas:
+COVID-19 Data Dashboard
+Pull from public sources, analyze cases/deaths, and plot trends (matplotlib/plotly).
+
+Stock Market Analyzer
+Analyze historical stock prices, moving averages, volume spikes, etc.
+
+Netflix Data Explorer
+Use Pandas to analyze a dataset like Netflix shows by genre, rating, etc.
+
+Sales Forecasting App (basic)
+Linear regression using scikit-learn to predict future sales.
+
+Personal Budget Visualizer
+Load expenses.csv and visualize spending by category (bar, pie charts).
+
+🧠 Bonus: What This Portfolio Shows Employers
+Folder	Skills You Prove
+01-basic	Core Python, problem solving, OOP
+02-api-cli	API integration, networking, CLI design
+03-web	Backend development, CRUD, user auth
+04-automation	Practical Python use cases, scripting
+05-testing	QA, code quality, test design
+06-data	Pandas, visualization, analysis

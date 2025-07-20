@@ -1,0 +1,12 @@
+[
+    {
+        "amount": 5000.0,
+        "category": "car payments",
+        "date": "2025-07-15"
+    },
+    {
+        "amount": 10000.0,
+        "category": "house",
+        "date": "2025-07-15"
+    }
+]
